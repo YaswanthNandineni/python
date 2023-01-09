@@ -25,7 +25,7 @@ p=Physical_Fit()
 p.getdata()
 p.Display()
 #OUTPUT:
-# Enter name RISHI
+# Enter name yash
 # Enter rollno 5
 # Enter gender MALE
 # Enter height 6.1
